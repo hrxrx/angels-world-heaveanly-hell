@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: rgb(255, 251, 255);
+    font-style: oblique;
+}
+
+h2 {
+    color: white;
+    font-style: oblique;
+}
+
+p {
+    color: whitesmoke;
+    font-style: oblique;
+}
+
+
+table, td {
+    border: 5px solid;
+    border-color: rgb(255, 255, 255);
+    color: red;
+    font-size: large;
+    font-style: oblique;
+}
